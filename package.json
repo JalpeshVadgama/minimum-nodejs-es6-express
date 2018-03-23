@@ -1,0 +1,24 @@
+{
+  "name": "minimum-nodejs-es6-express",
+  "version": "1.0.0",
+  "description": "A minimum structure for using node.js,es6 and express",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dotnetjalps/minimum-nodejs-es6-express.git"
+  },
+  "keywords": [
+    "es6",
+    "nodejs",
+    "express"
+  ],
+  "author": "Jalpesh Vadgama",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dotnetjalps/minimum-nodejs-es6-express/issues"
+  },
+  "homepage": "https://github.com/dotnetjalps/minimum-nodejs-es6-express#readme"
+}
